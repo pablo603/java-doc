@@ -35,7 +35,7 @@ public class CCuenta {
     }
   /**
    * 
-   * @param nom nombre del titular
+   * @param nom nombre del titular seleccionado
    */
     public void asignarNombre(String nom)
     {
